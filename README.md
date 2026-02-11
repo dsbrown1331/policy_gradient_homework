@@ -52,7 +52,7 @@ After working on this for a while, if you're really stuck, take a look here at t
 Also this [documentation](https://spinningup.openai.com/en/latest/algorithms/vpg.html) may help understand the code better.
 Note this code uses some parallelization using mpi, but you don't have to parallelize your code unless you really want to. This implementation also recommends normalizing the advantage estimates after computing them (lines 79-81) and this is probably a good thing to try in your implementation as well.
 
-Test out your implementation on CartPole and a continuous action environment of your choice. Report and discuss how your policy performs. How do your results compare to performance without a baseline?
+Test out your implementation on both CartPole and a continuous action environment of your choice. Report and discuss how your policy performs. How do your results compare to performance without a baseline?
 
 
 ## Extra Credit B:
