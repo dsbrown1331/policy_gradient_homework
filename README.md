@@ -18,7 +18,7 @@ python 1_simple_pg_gymnasium.py
 `
 This will run a simple policy gradient algorithm on the CartPole environment, a classic RL control benchmark. Read up on CartPole [here](https://gymnasium.farama.org/environments/classic_control/cart_pole/.)
 
-You won't see anything except printouts showing learning over time. By default it will run for 50 epochs. Feel free to play around with and change any of the hyperparameters and code. **Report on what you see and what it means. Is the agent learning? What happens to it's performance over time? Is it monotonically improving? Discuss why you think that is.**
+You won't see anything except printouts showing learning over time. By default it will run for 50 epochs. Feel free to play around with and change any of the hyperparameters and code. **Report on what you see and what it means. Is the agent learning? What happens to it's performance over time? Is it monotonically improving? Briefly discuss if what you observe makes sense.**
 
 ## Part 1b: Understanding and Implementing a Basic Policy Gradient Algorithm
 
