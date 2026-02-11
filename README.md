@@ -3,7 +3,7 @@
 For this homework you may work in groups of up to 3 students. Turn in one submission for your group with all your team members' names when submit to Canvas. Submit a writeup that answers and discusses the questions and experiments below.
 
 ## Setup
-You should use the rl_env conda environment that you set up for [Homework 4](https://github.com/dsbrown1331/q-learning-homework) This should have almost all the packages you need. The only thing missing that will need to add is scipy. To install this just activate your environment and call `conda install scipy`. You may also find [MatplotLib useful](https://matplotlib.org/stable/tutorials/index.html) for plotting results and can install this via `pip install matplotlib`. 
+You should use the rl_env conda environment that you set up for [Homework 4](https://github.com/dsbrown1331/q-learning-homework) This should have almost all the packages you need. The only thing missing that will need to added is scipy. To install this just activate your environment and call `conda install scipy`. You may also find [MatplotLib useful](https://matplotlib.org/stable/tutorials/index.html) for plotting results and can install this via `pip install matplotlib`. 
 
 ## Part 1a: Understanding and Implementing a Basic Policy Gradient Algorithm
 If you haven't already, read through [Part 1](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html) and [Part 2](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html) of the Policy Gradient Tutorial on SpinningUp.
